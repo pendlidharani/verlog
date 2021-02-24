@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VLSI-TASK/DAY3/maxmin
+vmaxmin
+Z1 !s110 1612079721
+!i10b 1
+!s100 Ag^RX:L4>9G;>AQ=R5HcD2
+IUKF8h<T^C:`fYBaEi<ISo1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1612079472
+8maxmin.v
+Fmaxmin.v
+L0 2
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1612079721.000000
+!s107 maxmin.v|
+!s90 -reportprogress|300|maxmin.v|
+!s101 -O0
+!i113 1
+Z5 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtb
+R1
+!i10b 1
+!s100 ?MN^6f78<71TkCD8O<=2a0
+IeXD8S99NPM4;@UP`XHZcj2
+R2
+R0
+w1612079490
+8maxmin_tb.v
+Fmaxmin_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 maxmin_tb.v|
+!s90 -reportprogress|300|maxmin_tb.v|
+!s101 -O0
+!i113 1
+R5

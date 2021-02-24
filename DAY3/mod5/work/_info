@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VLSI-TASK/DAY3/mod5
+vmod5
+Z1 !s110 1612088289
+!i10b 1
+!s100 ;[4Zh^]W9FJ`ZH3GH2gG@3
+Io=mGUk[i_oGGoA:08WR5j2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1612087109
+8mod5.v
+Fmod5.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1612088289.000000
+!s107 mod5.v|
+!s90 -reportprogress|300|mod5.v|+acc|
+!s101 -O0
+!i113 1
+Z5 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtb
+R1
+!i10b 1
+!s100 HUm:boZQn2AjI3HB?9F1X0
+I8fdj^ZFBFo;eVbiAfVb2O3
+R2
+R0
+w1612088275
+8mod5_tb.v
+Fmod5_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 mod5_tb.v|
+!s90 -reportprogress|300|mod5_tb.v|+acc|
+!s101 -O0
+!i113 1
+R5
