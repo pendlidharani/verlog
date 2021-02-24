@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VLSI-TASK/Day1/mux2
+vmux
+Z1 !s110 1612098409
+!i10b 1
+!s100 DZU9>bQUgMVY0:<jYUD?K3
+I43i@K_[Pi@IWbT2I^0ZEF2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1612098306
+Z4 8mux2.v
+Z5 Fmux2.v
+L0 1
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1612098409.000000
+Z8 !s107 mux2.v|
+Z9 !s90 -reportprogress|300|mux2.v|
+!s101 -O0
+!i113 1
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vmux2
+R1
+!i10b 1
+!s100 FK6^3F6LWGM>M4Y6eOO=73
+IhJkaD5;S5D5R`G2;2>4Hf1
+R2
+R0
+R3
+R4
+R5
+L0 11
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vtb
+R1
+!i10b 1
+!s100 ;dNJb<aZlm4dnRn1=z<dN1
+IlKG^nz34eNKS8UYz4^XOO1
+R2
+R0
+w1612098227
+8mux2_tb.v
+Fmux2_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 mux2_tb.v|
+!s90 -reportprogress|300|mux2_tb.v|
+!s101 -O0
+!i113 1
+R10
