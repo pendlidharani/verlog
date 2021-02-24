@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VLSI-TASK/DAY2/HalfAdder
+vha
+!s110 1612071660
+!i10b 1
+!s100 b5K;H7OR`W2WDdlzc>2JA3
+I<m`zZ@YVoOZzn_fQfOzoc0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1612071539
+8ha.v
+Fha.v
+L0 1
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1612071660.000000
+!s107 ha.v|
+!s90 -reportprogress|300|ha.v|
+!s101 -O0
+!i113 1
+Z3 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtb
+!s110 1612071661
+!i10b 1
+!s100 T_XiS[OMPH4_8KD:ALa2]1
+IlB0klj>0WG9O4L@fT_bf20
+R1
+R0
+w1612071559
+8ha_tb.v
+Fha_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1612071661.000000
+!s107 ha_tb.v|
+!s90 -reportprogress|300|ha_tb.v|
+!s101 -O0
+!i113 1
+R3

@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/VLSI-TASK/DAY2/XFullAdder
+vfa
+Z1 !s110 1612078269
+!i10b 1
+!s100 aM18bnSj6S<Ja5FLFg@Kf3
+I`j01Xg_d2C`a>9h<[PRBb3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1612076679
+Z4 8xfa.v
+Z5 Fxfa.v
+L0 11
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1612078269.000000
+Z8 !s107 xfa.v|
+Z9 !s90 -reportprogress|300|xfa.v|
+!s101 -O0
+!i113 1
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vha
+R1
+!i10b 1
+!s100 2HcNhef;cBGKFNiKmceAW1
+IXiUVUWblKHf9;Ui^bJT:L3
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vtb
+R1
+!i10b 1
+!s100 RH?D>4oiz`D_>AfWFk_870
+Ill]9Y@MBf_^JS34bKiJoK0
+R2
+R0
+w1612075654
+8xfa_tb.v
+Fxfa_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 xfa_tb.v|
+!s90 -reportprogress|300|xfa_tb.v|
+!s101 -O0
+!i113 1
+R10
+vxfa1
+R1
+!i10b 1
+!s100 GkD;N4n5Pz<[SHId84gJe0
+I3QClJKe606jM[d[BkiKd63
+R2
+R0
+R3
+R4
+R5
+L0 26
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
