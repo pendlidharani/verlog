@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/123-Dharani Pendli/DAY16/text1
+vtb
+!s110 1612970586
+!i10b 1
+!s100 V4o4k`Sck`:aASlbL=cTL2
+IU4oZcW]6lnfj^J`B;RO<^1
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1612970575
+8test10.v
+Ftest10.v
+L0 1
+OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1612970586.000000
+!s107 test10.v|
+!s90 -reportprogress|300|-f|file.list|+acc|
+!s101 -O0
+!i113 1
+o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0

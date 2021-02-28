@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/123-Dharani Pendli/DAY17/Mul3bit
+vfa
+Z1 !s110 1613049723
+!i10b 1
+!s100 h?54RabN6mG<EEiK4eaTL1
+IGM=VAKlNJUL<fK_PUm:]e3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1613044342
+8fa.v
+Ffa.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1613049723.000000
+!s107 fa.v|
+!s90 -reportprogress|300|fa.v|
+!s101 -O0
+!i113 1
+Z5 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vha
+R1
+!i10b 1
+!s100 b5K;H7OR`W2WDdlzc>2JA3
+I<m`zZ@YVoOZzn_fQfOzoc0
+R2
+R0
+w1612071539
+8ha.v
+Fha.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 ha.v|
+!s90 -reportprogress|300|ha.v|
+!s101 -O0
+!i113 1
+R5
+vmul3
+R1
+!i10b 1
+!s100 j;6I^MDZK2@Q[dLRn;hd^2
+I11Y3ldR=9eJcSJD2QMR3D1
+R2
+R0
+w1613044484
+8mul3.v
+Fmul3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 mul3.v|
+!s90 -reportprogress|300|mul3.v|
+!s101 -O0
+!i113 1
+R5
+vtb
+R1
+!i10b 1
+!s100 mil^g@WYeJ1]S:[OcHBJ`0
+IYU2XWhXT;fn]=C_6^S1:[3
+R2
+R0
+w1613045385
+8mul3_tb.v
+Fmul3_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 mul3_tb.v|
+!s90 -reportprogress|300|mul3_tb.v|
+!s101 -O0
+!i113 1
+R5
+vxfa
+!s110 1613049724
+!i10b 1
+!s100 ogMcch8`Hd@55l;Ydm17[2
+ID;?b[CG?XfdMVe=lm`a[82
+R2
+R0
+w1613044774
+8xfa.v
+Fxfa.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1613049724.000000
+!s107 xfa.v|
+!s90 -reportprogress|300|xfa.v|
+!s101 -O0
+!i113 1
+R5

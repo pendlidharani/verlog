@@ -1,0 +1,18 @@
+module tb;
+integer a;
+initial 
+begin
+    a=10;
+	$monitor("p:",a);
+	a=20;
+	a=30;
+	a<=50;
+	$write(a);//30 write means it will print the value side by side 
+#5;
+    a=100;
+
+    $display(a);
+	$monitor("p:",a);
+    $finish;
+	 end
+endmodule

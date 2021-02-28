@@ -1,0 +1,10 @@
+vlib work
+vdel -all
+vlib work
+vlog mul3.v
+vlog mul3_tb.v
+vlog ha.v
+vlog fa.v
+vlog xfa.v
+vsim work.tb
+run -all
