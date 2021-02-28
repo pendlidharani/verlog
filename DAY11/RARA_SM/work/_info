@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/123-Dharani Pendli/DAY11/RARA_SM
+vsm_rara
+Z1 !s110 1612369934
+!i10b 1
+!s100 6McG[68ljJ6d@P[iiSl:j3
+IjV@QL^ho]@ARcC2[bH;2V3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1612369926
+8rara.v
+Frara.v
+Z3 Fparameter.txt
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1612369934.000000
+Z6 !s107 parameter.txt|rara_tb.v|rara.v|
+Z7 !s90 -reportprogress|300|-f|file.list|+acc|+define+OL|
+!s101 -O0
+!i113 1
+Z8 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+Z9 !s92 +acc +define+OL -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtb
+R1
+!i10b 1
+!s100 :30eOSGHa2D^ABY[NTa_i1
+I:_TenFeLa1KW_fB][cd5>2
+R2
+R0
+w1612368156
+8rara_tb.v
+Frara_tb.v
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!s101 -O0
+!i113 1
+R8
+R9

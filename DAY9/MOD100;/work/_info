@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/123-Dharani Pendli/DAY9/MOD100;
+vmod100
+Z1 !s110 1612183565
+!i10b 1
+!s100 TXn`C3kzC?o<6?Vc`L;G80
+I29=EFk1TUZYOY_U65F?8Y3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1612183183
+8mod100.v
+Fmod100.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1612183565.000000
+!s107 mod100.v|
+!s90 -reportprogress|300|mod100.v|+acc|
+!s101 -O0
+!i113 1
+Z5 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtb
+R1
+!i10b 1
+!s100 Q<H?P1W?DzbA>oTW]fVCb0
+I;]az^jM9U^UQ8To1d6O0=1
+R2
+R0
+w1612182499
+8mod100_tb.v
+Fmod100_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 mod100_tb.v|
+!s90 -reportprogress|300|mod100_tb.v|+acc|
+!s101 -O0
+!i113 1
+R5

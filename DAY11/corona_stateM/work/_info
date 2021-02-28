@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/TASK-VLSI @123-Dharani Pendli/DAY11/corona_stateM
+vcovid_19
+Z1 !s110 1613366271
+!i10b 1
+!s100 NdO=kB^^7kf:7Q_ld91VR0
+IddU9KWZVQ033K:Ez_z]Hh2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1612427162
+8corona.v
+Fcorona.v
+Fparameter.txt
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1613366271.000000
+Z5 !s107 parameters.txt|parameter.txt|corona_tb.v|corona.v|
+Z6 !s90 -reportprogress|300|-f|file.list|+acc|
+!s101 -O0
+!i113 1
+Z7 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtb
+R1
+!i10b 1
+!s100 49lgcWLQ3aagaBh_1Z4OM2
+IT>VmU8>zd<=TJ^K3=_?KP0
+R2
+R0
+w1612367012
+8corona_tb.v
+Fcorona_tb.v
+Fparameters.txt
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7

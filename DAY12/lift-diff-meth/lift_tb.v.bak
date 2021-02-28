@@ -1,0 +1,25 @@
+module tb;
+reg clk,rst,ra,rb,rc,rd;
+wire [1:0] floor;
+
+lift dharani(clk,rst,ra,rb,rc,rd,floor);
+initial #2 rst=0;
+initial #2 clk=0;
+always #5 clk=!clk;
+
+
+initial 
+begin
+   #50;
+   ra=1;#50 ;
+   #50
+   rb=1;#50 ;rb=0;
+   #50;
+   rc=1;#50 ;rc=0;
+   #50
+   rd=1;#50 ;rc=0;
+  
+   #1000;
+   $finish;
+  end
+endmodule

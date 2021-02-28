@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/123-Dharani Pendli/DAY9/PentaAdd
+vpentaadd
+Z1 !s110 1612253520
+!i10b 1
+!s100 PX]I5M_40A4AN9SFmUKm^1
+I^=2AFQADk_fz15oLFOV`I3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1612253308
+8pa.v
+Fpa.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1612253520.000000
+!s107 pa.v|
+!s90 -reportprogress|300|pa.v|
+!s101 -O0
+!i113 1
+Z5 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtb
+R1
+!i10b 1
+!s100 KIN21^B_^2zFWcGLH@7;62
+I6dlM9C>eGQcR25aBnKD``0
+R2
+R0
+w1612253513
+8pa_tb.v
+Fpa_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 pa_tb.v|
+!s90 -reportprogress|300|pa_tb.v|
+!s101 -O0
+!i113 1
+R5
