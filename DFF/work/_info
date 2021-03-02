@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/New folder/DFF
+vdff
+!s110 1614681725
+!i10b 1
+!s100 mDeI04hYaz5N36:jZGkOm3
+Ic0`FmeC>Qj7H<Ylj5CaJO1
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1614678525
+8task_fork.v
+Ftask_fork.v
+L0 1
+OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1614681725.000000
+!s107 task_fork.v|
+!s90 -reportprogress|300|task_fork.v|+acc|
+!s101 -O0
+!i113 1
+o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
